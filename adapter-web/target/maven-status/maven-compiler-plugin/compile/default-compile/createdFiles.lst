@@ -1,0 +1,5 @@
+com/example/hexagonal/adapter/web/dto/CreateProductRequest.class
+com/example/hexagonal/adapter/web/dto/ProductResponse.class
+com/example/hexagonal/adapter/web/ProductController.class
+com/example/hexagonal/adapter/web/dto/UpdateProductRequest.class
+com/example/hexagonal/adapter/web/ApiExceptionHandler.class

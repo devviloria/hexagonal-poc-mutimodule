@@ -1,0 +1,5 @@
+/Users/dviloria/Documents/Proyectos/Desarrollo/Java/hexagonal-poc-multimodule/adapter-web/src/main/java/com/example/hexagonal/adapter/web/ApiExceptionHandler.java
+/Users/dviloria/Documents/Proyectos/Desarrollo/Java/hexagonal-poc-multimodule/adapter-web/src/main/java/com/example/hexagonal/adapter/web/ProductController.java
+/Users/dviloria/Documents/Proyectos/Desarrollo/Java/hexagonal-poc-multimodule/adapter-web/src/main/java/com/example/hexagonal/adapter/web/dto/CreateProductRequest.java
+/Users/dviloria/Documents/Proyectos/Desarrollo/Java/hexagonal-poc-multimodule/adapter-web/src/main/java/com/example/hexagonal/adapter/web/dto/ProductResponse.java
+/Users/dviloria/Documents/Proyectos/Desarrollo/Java/hexagonal-poc-multimodule/adapter-web/src/main/java/com/example/hexagonal/adapter/web/dto/UpdateProductRequest.java

@@ -1,0 +1,2 @@
+com/example/hexagonal/adapter/persistence/PersistenceConfiguration.class
+com/example/hexagonal/adapter/persistence/InMemoryProductRepository.class
